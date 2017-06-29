@@ -1,0 +1,48 @@
+/* styling for Riverview Website */
+/* Sass Document */
+/* Sass Setup */
+/* reset */
+html, body, img, ul, li, ol, h1, h2, h3, h4, h5, h6, div {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  min-width: 280px;
+  background: #000;
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#000, #fff);
+  /* For Safari */
+  background: -moz-linear-gradient(#000, #fff);
+  /* For Firefox */
+  background: -o-linear-gradient(#000, #fff);
+  /* For Opera */
+  background: linear-gradient(#000, #fff);
+  /* For Chrome */
+  background: url(../images/riverview_bg_img.jpg) no-repeat scroll; }
+
+h1 {
+  font-family: "Times New Roman", Times, serif; }
+
+h2, h3, h4, h5 {
+  font-weight: "Open Sans Condensed", sans-serif; }
+
+p {
+  font: 1.5em "Open Sans", Arial, Helvetica, sans-serif; }
+
+nav h1 {
+  color: black;
+  font-style: italic;
+  line-height: .8;
+  margin-top: -7px;
+  margin-left: 10px; }
+nav span {
+  color: black;
+  text-transform: uppercase;
+  font-size: .8em;
+  margin-left: 10px; }
+nav li {
+  font-size: 18px; }
+
+.home_page .jumbotron {
+  background-color: transparent; }

@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* styling for Riverview Website */
+/* Sass Document */
+
+/* Sass Setup */
+$font_heading_1: "Times New Roman", Times, serif;
+$font_sub_headings: 'Open Sans Condensed',sans-serif;
+$font_paragraphs: "Open Sans", Arial, Helvetica, sans-serif;
+$bg_color: #fff;
+$text_color: black;
+$radius: 10px;
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+/* reset */
+html, body, img, ul, li, ol, h1, h2, h3, h4, h5, h6, div {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	min-width: 280px;
+	background: #000; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#000, #fff); /* For Safari */
+    background: -moz-linear-gradient(#000, #fff); /* For Firefox */
+    background: -o-linear-gradient(#000, #fff); /* For Opera */
+    background: linear-gradient(#000, #fff); /* For Chrome */
+	background: url(../images/riverview_bg_img.jpg) no-repeat scroll;
+}
+
+h1 {
+	font-family: $font_heading_1;
+}
+
+h2, h3, h4, h5 {
+	font-weight: $font_sub_headings;
+}
+
+p {
+	font: 1.5em $font_paragraphs;
+}
+
+nav {
+	h1 {
+		color: $text_color;
+		font-style: italic;
+		line-height: .8;
+		margin-top: -7px;
+		margin-left: 10px;
+	}
+	
+	span {
+		color: $text_color;
+		text-transform: uppercase;
+		font-size: .8em;
+		margin-left: 10px;
+	}
+	
+	li {
+		font-size: 18px;
+	}
+}
+
+.home_page {
+	.jumbotron {
+		background-color: transparent;
+	}
+}
