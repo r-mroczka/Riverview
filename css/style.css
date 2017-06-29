@@ -7,6 +7,9 @@ html, body, img, ul, li, ol, h1, h2, h3, h4, h5, h6, div {
   padding: 0;
   box-sizing: border-box; }
 
+html {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif; }
+
 body {
   min-width: 280px;
   background: #000;
@@ -19,13 +22,24 @@ body {
   /* For Opera */
   background: linear-gradient(#000, #fff);
   /* For Chrome */
-  background: url(../images/riverview_bg_img.jpg) no-repeat scroll; }
+  background: url(../images/riverview_bg_img.jpg) no-repeat scroll;
+  background-position-x: center;
+  background-position-y: top;
+  background-position: center top;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 100%;
+  height: 100%; }
 
 h1 {
   font-family: "Times New Roman", Times, serif; }
 
-h2, h3, h4, h5 {
-  font-weight: "Open Sans Condensed", sans-serif; }
+h2, h3 {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: lighter;
+  line-height: 1.3em;
+  letter-spacing: -1.5px;
+  color: #7c7b7b; }
 
 p {
   font: 1.5em "Open Sans", Arial, Helvetica, sans-serif; }
@@ -34,15 +48,14 @@ nav h1 {
   color: black;
   font-style: italic;
   line-height: .8;
-  margin-top: -7px;
+  margin-top: -5px;
   margin-left: 10px; }
 nav span {
   color: black;
   text-transform: uppercase;
-  font-size: .8em;
-  margin-left: 10px; }
+  font-size: .8em; }
 nav li {
-  font-size: 18px; }
+  font-size: 16px; }
 
 .home_page .jumbotron {
   background-color: transparent; }

@@ -8,7 +8,7 @@
 			<div>
 				<a class="navbar-brand" href="/" alt="Navigate to Riverview Sober House Landing Page">
 				<h1>Riverview Sober House</h1>
-				<span>Quality Sober Housing</span>
+				<span style="margin-left: 10px;">Quality Sober Housing</span>
 				</a>
 			</div>
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> 

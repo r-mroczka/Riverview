@@ -4,7 +4,7 @@
 
 /* Sass Setup */
 $font_heading_1: "Times New Roman", Times, serif;
-$font_sub_headings: 'Open Sans Condensed',sans-serif;
+$font_sub_headings: "Open Sans Condensed", sans-serif;
 $font_paragraphs: "Open Sans", Arial, Helvetica, sans-serif;
 $bg_color: #fff;
 $text_color: black;
@@ -24,6 +24,10 @@ html, body, img, ul, li, ol, h1, h2, h3, h4, h5, h6, div {
 	box-sizing: border-box;
 }
 
+html {
+	font-family: $font_paragraphs;
+}
+
 body {
 	min-width: 280px;
 	background: #000; /* For browsers that do not support gradients */
@@ -32,15 +36,29 @@ body {
     background: -o-linear-gradient(#000, #fff); /* For Opera */
     background: linear-gradient(#000, #fff); /* For Chrome */
 	background: url(../images/riverview_bg_img.jpg) no-repeat scroll;
+	background-position-x: center;
+    background-position-y: top;
+    background-position: center top;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
 h1 {
 	font-family: $font_heading_1;
 }
 
-h2, h3, h4, h5 {
-	font-weight: $font_sub_headings;
+
+
+h2, h3 {
+	font-family: $font_sub_headings;
+	font-weight: lighter;
+	line-height: 1.3em;
+	letter-spacing: -1.5px;
+	color: #7c7b7b;
 }
+
 
 p {
 	font: 1.5em $font_paragraphs;
@@ -51,7 +69,7 @@ nav {
 		color: $text_color;
 		font-style: italic;
 		line-height: .8;
-		margin-top: -7px;
+		margin-top: -5px;
 		margin-left: 10px;
 	}
 	
@@ -59,11 +77,10 @@ nav {
 		color: $text_color;
 		text-transform: uppercase;
 		font-size: .8em;
-		margin-left: 10px;
 	}
 	
 	li {
-		font-size: 18px;
+		font-size: 16px;
 	}
 }
 

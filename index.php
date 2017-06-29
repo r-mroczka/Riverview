@@ -7,7 +7,7 @@ include_once("./includes/header.php")
 <section class="home_page">
   <div class="jumbotron text-center">
     <div class="container">
-      <div class="row">
+      <div class="row" style="height: 350px;">
         <div class="col-xs12">
         	<!-- place content here -->
         </div>
@@ -17,31 +17,31 @@ include_once("./includes/header.php")
 </section>
 
 <section>
-  <div class="container well">
+  <div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
    	<h2 style="text-align: center; margin-bottom: 25px;">Sober Atmosphere that Supports Independent Living</h2>
 
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-4">
         <div class="media">
-          <div class="media-left"> <a href="#"> <img class="media-object" src="./images/35X35.gif" width="35px" hieght="35px" alt="..."> </a> </div>
+          <div class="media-left"> <a href="#"> <img class="media-object" src="./images/35X35.gif" width="35px" height="35px" alt="..."> </a> </div>
           <div class="media-body">
-            <h2 class="media-heading">Media heading</h2>
+            <h3 class="media-heading text-center">Quality</h3>
             Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-4">
         <div class="media">
-          <div class="media-left"> <a href="#"> <img class="media-object" src="./images/35X35.gif" width="35px" hieght="35px" alt="..."> </a> </div>
+          <div class="media-left"> <a href="#"> <img class="media-object" src="./images/35X35.gif" width="35px" height="35px" alt="..."> </a> </div>
           <div class="media-body">
-            <h2 class="media-heading">Media heading</h2>
+            <h3 class="media-heading text-center">Sober</h3>
             Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-4">
         <div class="media">
-          <div class="media-left"> <a href="#"> <img class="media-object" src="./images/35X35.gif" width="35px" hieght="35px" alt="..."></a></div>
+          <div class="media-left"> <a href="#"> <img class="media-object" src="./images/35X35.gif" width="35px" height="35px" alt="..."></a></div>
           <div class="media-body">
-            <h2 class="media-heading">Media heading</h2>
+            <h3 class="media-heading text-center">Housing</h3>
             Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </div>
         </div>
       </div>

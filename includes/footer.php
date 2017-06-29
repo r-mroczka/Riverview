@@ -4,7 +4,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
-						<p><small>Copyright © Riverview Sober House. All rights reserved.</small></p>
+						<p style="font-size: 10px;">Copyright © Riverview Sober House. All rights reserved.</p>
 					</div>
 				</div>
 			</div>
