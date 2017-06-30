@@ -9,9 +9,9 @@
 
 	<meta property = "fb:app_id" content = "" />
 	<meta property = "og:title" content = "Riverview Sober House" />
-	<meta property = "og:url" content = "http://www.riverviewsoberhouse.com" />
+	<meta property = "og:url" content = "http://34.202.212.253/" />
 	<meta property = "og:description" content = "Located in New Haven, CT, Riverview Sober House is a spacious, comfortable, home like living environment that is supportive and has a great atmosphere for recovery." />
-	<meta property = "og:image" content = "http://artisticdocumentdesigns.com/images/add_logo_sm.png" />
+	<meta property = "og:image" content = "http://34.202.212.253/images/house_5.jpg" />
 	<meta property = "og:type" content = "article"/>
 
 	<title><?php echo $page_title; ?></title>
