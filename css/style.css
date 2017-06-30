@@ -23,8 +23,6 @@ body {
   background: linear-gradient(#000, #fff);
   /* For Chrome */
   background: url(../images/riverview_bg_img.jpg) no-repeat scroll;
-  background-position-x: center;
-  background-position-y: top;
   background-position: center top;
   background-repeat: no-repeat;
   position: absolute;
@@ -42,7 +40,8 @@ h2, h3 {
   color: #7c7b7b; }
 
 p {
-  font: 1.5em "Open Sans", Arial, Helvetica, sans-serif; }
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  line-height: 1.3em; }
 
 nav h1 {
   color: black;
