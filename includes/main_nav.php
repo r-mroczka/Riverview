@@ -26,13 +26,13 @@
 			</ul>
 			
 		   	<div style="float: right;">
-			   <small><a href="tel:1-860-834-1011"><span class="glyphicon glyphicon-phone"></span>860-834-1011</a></small>
-			   <small><a href="mailto:contact@riverviewsoberhouse.com"><span class="glyphicon glyphicon-envelope"></span>contact@riverviewsoberhouse.com</a></small>
+			   <small><a href="tel:1-860-888-1111"><span class="glyphicon glyphicon-phone"></span> 860-888-1111</a></small>
+			   <small><a href="mailto:contact@riverviewsoberhouse.com"><span class="glyphicon glyphicon-envelope"></span> contact@riverviewsoberhouse.com</a></small>
 			</div>
 		<br>
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="./accommodations.php">ACCOMMODATIONS</a></li>
-				<li><a href="./program.php">PROGRAM</a></li>
+				<li><a href="./housing.php">HOUSING</a></li>
+				<li><a href="./sobriety.php">PROGRAM</a></li>
 				<li><a href="./contact.php">CONTACT</a></li>
 			</ul>
 		</div>
