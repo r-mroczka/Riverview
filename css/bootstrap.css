@@ -4160,7 +4160,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar {
-  min-height: 65px;
+  min-height: 67px;
 }
 
 @media (min-width: 768px) {
