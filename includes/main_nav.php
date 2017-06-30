@@ -31,9 +31,9 @@
 			</div>
 		<br>
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="./housing.php">HOUSING</a></li>
-				<li><a href="./sobriety.php">PROGRAM</a></li>
-				<li><a href="./contact.php">CONTACT</a></li>
+				<!-- <li><a href="#">HOUSING</a></li>
+				<li><a href="#">PROGRAM</a></li> -->
+				<li><a href="#">CONTACT</a></li>
 			</ul>
 		</div>
 		<!-- /.navbar-collapse --> 
