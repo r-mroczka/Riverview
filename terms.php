@@ -6,7 +6,7 @@ include('./includes/header.php');
 <section class="home_page">
 	<div class="jumbotron text-center">
 		<div class="container">
-			<div class="row" style="height: 150px;">
+			<div class="row" style="height: 100px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black;">Riverview Sober House</h2>
 					<p style="color: white; text-shadow: 1px 1px 3px #000;">Terms of Service and Privacy Policy</p>
