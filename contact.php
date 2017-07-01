@@ -18,7 +18,6 @@ include_once("./includes/header.php")
 
 <section>
 	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
-	
 		<div class="row">
 			<div class="col-xs-8 col-xs-offset-2 col-md-5 col-md-offset-1 text-center">
 				<div style="width: 90%; margin: 0 auto;">
@@ -111,20 +110,20 @@ include_once("./includes/header.php")
 		    </div>
       		<!-- /col -->
        	</div>
-       	<!-- /row -->
-       	
-       	<div class="row" style="margin-top: 20px;">
-       		<div class="col-md-10 col-md-offset-1">
-       			<div style="width: 90%; margin: 0 auto;">
-	       			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.863046150095!2d-72.89120538446637!3d41.31184287927112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d7650276aeb5%3A0x83c09b5d9e0cdd49!2sFront+St%2C+New+Haven%2C+CT+06513!5e0!3m2!1sen!2sus!4v1498900639551" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-				</div>
+       	<!-- /row -->      	     	
+	</div>
+	<!-- /container well -->
+	
+    <div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
+        <div class="row" style="margin-top: 20px;">
+       		<div class="col-md-12">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.863046150095!2d-72.89120538446637!3d41.31184287927112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d7650276aeb5%3A0x83c09b5d9e0cdd49!2sFront+St%2C+New+Haven%2C+CT+06513!5e0!3m2!1sen!2sus!4v1498900639551" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		    </div>
       		<!-- /col -->
        	</div>
        	<!-- /row -->
-       	     	
 	</div>
-	<!-- /container well -->
+
 </section>
 	
 			
