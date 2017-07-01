@@ -4,7 +4,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
-						<p style="font-size: 10px;">Copyright © Riverview Sober House. All rights reserved.</p>
+						<p style="font-size: 10px;">Copyright © Riverview Sober House. All rights reserved. 
+						<a href="./terms.php" title="Terms and Policies"> Terms and Policies</a></p>
 					</div>
 				</div>
 			</div>
