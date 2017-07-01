@@ -6,7 +6,7 @@ include('./includes/header.php');
 <section class="home_page">
 	<div class="jumbotron text-center">
 		<div class="container">
-			<div class="row" style="height: 250px;">
+			<div class="row" style="height: 150px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black;">Riverview Sober House</h2>
 					<p style="color: white; text-shadow: 1px 1px 3px #000;">Terms of Service and Privacy Policy</p>
@@ -43,6 +43,8 @@ include('./includes/header.php');
 					</li>
 					<li>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Riverview Sober House at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</li>
 				  </ol>
+				  
+				  <br>
 
 				<h3>3. Disclaimer</h3>
 
@@ -50,6 +52,8 @@ include('./includes/header.php');
 					<li>The materials on Riverview Sober House's website are provided on an 'as is' basis. Riverview Sober House makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</li>
 					<li>Further, Riverview Sober House does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</li>
 				  </ol>
+				  
+				  <br>
 
 				<h3>4. Limitations</h3>
 
