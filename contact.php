@@ -19,99 +19,111 @@ include_once("./includes/header.php")
 <section>
 	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
 	
-		<div class="row"><!-- This is the encapsalating row -->
+		<div class="row">
 			<div class="col-xs-8 col-xs-offset-2 col-md-5 col-md-offset-1 text-center">
-			<div style="width: 90%; margin: 0 auto;">
-				<h2>Contact</h2>
+				<div style="width: 90%; margin: 0 auto;">
+					<h2>Contact</h2>
 
-					<?php
-					//check for submission
-					if (isset($_POST['submitted'])) {
+						<?php
+						//check for submission
+						if (isset($_POST['submitted'])) {
 
-						if (!empty($_POST['name']) &&
-						!empty($_POST['email']) &&
-						!empty($_POST['subject']) &&
-						!empty($_POST['comments'])) {
+							if (!empty($_POST['name']) &&
+							!empty($_POST['email']) &&
+							!empty($_POST['subject']) &&
+							!empty($_POST['comments'])) {
 
-							$body = "Name:
-							{$_POST['name']}\n\nSubject:
-							{$_POST['subject']}\n\nComments:
-							{$_POST['comments']}";
+								$body = "Name:
+								{$_POST['name']}\n\nSubject:
+								{$_POST['subject']}\n\nComments:
+								{$_POST['comments']}";
 
-							$body = wordwrap($body, 70);
+								$body = wordwrap($body, 70);
 
-							mail('contact@riverviewsoberhouse.com',
-							'ADD - Contact Form Submission', $body,
-							"From: {$_POST['email']}");
+								mail('contact@riverviewsoberhouse.com',
+								'ADD - Contact Form Submission', $body,
+								"From: {$_POST['email']}");
 
-							echo '<p class="text-center alert alert-success"><em><strong>Thank you for taking the time to contact us.<br /> We will reply shortly.</strong></em></p>';
+								echo '<p class="text-center alert alert-success"><em><strong>Thank you for taking the time to contact us.<br /> We will reply shortly.</strong></em></p>';
 
-							//clear $_POST
-							$_POST = array();
+								//clear $_POST
+								$_POST = array();
 
-						} else {
-							echo '<p class="text-center alert alert-danger"><strong>Please complete the required fields!</strong></p>';
+							} else {
+								echo '<p class="text-center alert alert-danger"><strong>Please complete the required fields!</strong></p>';
+							}
 						}
-					}
-				?>
+					?>
 
-				<!-- Contact page form -->	
-				<div id="contact_form" class="text-left">
-					<form action="contact.php" method="post">
-						<fieldset>
+					<!-- Contact page form -->	
+					<div id="contact_form" class="text-left">
+						<form action="contact.php" method="post">
+							<fieldset>
 
-						<label for="name">*Name</label><br /> 
-						<input id="name" type="text" name="name" maxlength="60"  value="<?php if (isset($_POST['name'])) echo $_POST['name']; ?>" />
+							<label for="name">*Name</label><br /> 
+							<input id="name" type="text" name="name" maxlength="60"  value="<?php if (isset($_POST['name'])) echo $_POST['name']; ?>" />
 
-						<br />
-						<br />
+							<br />
+							<br />
 
-						<label for="email">*Email</label><br />
-						<input id="email" type="text" name="email" maxlength="60" value="<?php if (isset($_POST['email'])) echo $_POST['email']; ?>" />
+							<label for="email">*Email</label><br />
+							<input id="email" type="text" name="email" maxlength="60" value="<?php if (isset($_POST['email'])) echo $_POST['email']; ?>" />
 
-						<br />
-						<br />
+							<br />
+							<br />
 
-						<label for="subject">*Subject</label><br />
-						<input id="subject" type="text" name="subject" maxlength="60" value="<?php if (isset($_POST['subject'])) echo $_POST['subject']; ?>" />
+							<label for="subject">*Subject</label><br />
+							<input id="subject" type="text" name="subject" maxlength="60" value="<?php if (isset($_POST['subject'])) echo $_POST['subject']; ?>" />
 
-						<br />
-						<br />
+							<br />
+							<br />
 
-						<label for="comments">*Comments</label><br />
-						<textarea id="comments" name="comments" rows="6"><?php if (isset($_POST['comments'])) echo $_POST['comments']; ?></textarea>
+							<label for="comments">*Comments</label><br />
+							<textarea id="comments" name="comments" rows="6"><?php if (isset($_POST['comments'])) echo $_POST['comments']; ?></textarea>
 
-						<br />
-						<br />
+							<br />
+							<br />
 
-						<input class="submit" type="submit" name="submit" value="Submit" />
-						<input type="hidden" name="submitted" value="true" />
+							<input class="submit" type="submit" name="submit" value="Submit" />
+							<input type="hidden" name="submitted" value="true" />
 
-						<br />
+							<br />
 
-						<small class="error">* denotes required fields</small>
+							<small class="error">* denotes required fields</small>
 
-						</fieldset>
-					</form>
+							</fieldset>
+						</form>
 
+					</div>
+					<!-- /contact page form -->
 				</div>
-				<!-- end contact page form -->
 			</div>
-			</div>
-			<!-- end col -->
+			<!-- /col -->
 
 			<div class="col-md-5 text-center">
-			<div style="width: 90%; margin: 0 auto;">
-				<address><h2 style="margin-bottom: 0">Riverview Sober House</h2>		
-				<br />New Haven, CT 06513
-				<br />Phone: <a href="tel:+12038881234">203-888-1234</a>
-				<br />Email: <a href="mailto:contact@riverviewsoberhouse.com" target="_blank">contact@riverviewsoberhouse</a></address>
-				<img style="margin: 10px auto;" width="95%" src="./images/house_6.jpg" alt="Outside of Riverview Sober House"/>
-			</div>	
-		    </div><!-- end col -->
-       	</div><!-- end row -->
+				<div style="width: 90%; margin: 0 auto;">
+					<address><h2 style="margin-bottom: 0">Riverview Sober House</h2>		
+					<br />New Haven, CT 06513
+					<br />Phone: <a href="tel:+12038881234">203-888-1234</a>
+					<br />Email: <a href="mailto:contact@riverviewsoberhouse.com" target="_blank">contact@riverviewsoberhouse</a></address>
+					<img style="margin: 10px auto;" width="95%" src="./images/house_6.jpg" alt="Outside of Riverview Sober House"/>
+				</div>	
+		    </div>
+      		<!-- /col -->
+       	</div>
+       	<!-- /row -->
+       	
+       	<div class="row">
+       		<div class="col-md-8 col-md-offset-2">
+       			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.863046150095!2d-72.89120538446637!3d41.31184287927112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d7650276aeb5%3A0x83c09b5d9e0cdd49!2sFront+St%2C+New+Haven%2C+CT+06513!5e0!3m2!1sen!2sus!4v1498900639551" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		    </div>
+      		<!-- /col -->
+       	</div>
+       	<!-- /row -->
+       	     	
 	</div>
+	<!-- /container well -->
 </section>
-
 	
+			
 <?php include_once("./includes/footer.php") ?>
