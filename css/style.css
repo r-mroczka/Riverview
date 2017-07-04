@@ -59,9 +59,9 @@ nav li {
 .home_page .jumbotron {
   background-color: transparent; }
 
-@media (max-width: 600px) {
-  .home_page .jumbotron p {
-    font-weight: bold; } }
+.home_page .jumbotron p {
+  font-weight: bold; }
+
 form input {
   width: 100%; }
 form textarea {
