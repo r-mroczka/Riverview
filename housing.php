@@ -6,7 +6,7 @@ include_once("./includes/header.php")
 
 <section class="housing_page">
 	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
-	<h2 style="text-align: center; margin-bottom: 0">Riverview Sober House - housing</h2>
+	<h2>Riverview Sober House - housing</h2>
 
 		<div id="links">
 			<a href="images/house_7.jpg" title="">
