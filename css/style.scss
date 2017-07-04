@@ -92,7 +92,9 @@ nav {
 @media (max-width: 600px) {
   .home_page {
 	  .jumbotron {
+		  p {
 		  font-weight: bold;
+		  }
 	  }
   }
 }

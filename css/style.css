@@ -60,7 +60,7 @@ nav li {
   background-color: transparent; }
 
 @media (max-width: 600px) {
-  .home_page .jumbotron {
+  .home_page .jumbotron p {
     font-weight: bold; } }
 form input {
   width: 100%; }
