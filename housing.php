@@ -4,19 +4,9 @@ include_once("./includes/header.php")
 ?>
 	
 
-<section class="home_page">
-	<div class="jumbotron text-center">
-		<div class="container">
-			<div class="row" style="height: 250px;">
-				<!-- content can go here -->
-			</div>
-		</div>
-	</div>
-</section>
-
-<section>
+<section class="housing_page">
 	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
-	<h2 style="text-align: center; margin-bottom: 25px;">Riverview Sober House</h2>
+	<h2 style="text-align: center; margin-bottom: 0">Riverview Sober House</h2>
 
 		<div id="links">
 			<a href="images/house_7.jpg" title="">

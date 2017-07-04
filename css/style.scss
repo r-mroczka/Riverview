@@ -89,16 +89,24 @@ nav {
 	}
 }
 
-  .home_page {
-	  .jumbotron {
-		  p {
-		  font-weight: bold;
-		  font-size: 18px;
-		  color: #fff;
-		  text-shadow: 2px 2px 5px #000;
-		  }
+.home_page {
+  .jumbotron {
+	  p {
+	  font-weight: bold;
+	  font-size: 20px;
+	  color: #fff;
+	  text-shadow: 2px 2px 2px #000;
+	  background-color: rgba(43,42,65,0.50);
+	  padding: 10px;
+	  border-radius: 5px;
+	  border: 1px solid transparent;
 	  }
   }
+}
+
+.housing_page {
+	margin-top: 20px;
+}
 
 form {
 	input {
