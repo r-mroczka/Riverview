@@ -89,6 +89,14 @@ nav {
 	}
 }
 
+@media (max-width: 600px) {
+  .home_page {
+	  .jumbotron {
+		  font-weight: bold;
+	  }
+  }
+}
+
 form {
 	input {
 		width: 100%;

@@ -10,7 +10,7 @@ include_once("./includes/header.php")
 			<div class="row" style="height: 350px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black;">Sober Housing - New Haven, CT</h2>
-					<p style="color: white; text-shadow: 1px 1px 3px #000;">For nearly 10 years, we have been positively transforming the lives of our residents. We take a comprehensive approach to addiction treatment and sober living that is designed to gradually reintegrate our clients back into the real world.</p>
+					<p style="color: white; text-shadow: 1px 1px 3px #000;">We positively transform the lives of our residents. We take a comprehensive approach to addiction treatment and sober living that is designed to gradually reintegrate our clients back into the real world.</p>
 				</div>
 			</div>
 		</div>
@@ -54,7 +54,7 @@ include_once("./includes/header.php")
     <div class="row">
       <div class="col-xs-10 col-xs-offset-1 text-center">
         <h2>Admision</h2>
-        <p>Riverview Sober House is a professionally run facility with a full time, live-in manager, and assistant manager. We have zero tolerance substance use policy. We require, routine, random drug and alcohol testing. In addition, we require attendance of at least 3 AA (Alcoholic Anonymous), or NA (Narcotic Anonymous) meetings per week. We generally require a minimum of 4 months sobriety for admission. All residents are required to have full time employment, or be actively attending full time school. Additionally, all residents are subject to house rules designed to enhance and encourage sober, quality and independent living.</p>
+        <p>Riverview Sober House is a professionally run facility with a full time, live-in manager, and assistant manager. We have zero tolerance substance use policy. We require, routine, random drug and alcohol testing. In addition, we require attendance of at least 3 AA (Alcoholic Anonymous), or NA (Narcotic Anonymous) meetings per week. All residents are required to have full time employment, or be actively attending full time school. Additionally, all residents are subject to house rules designed to enhance and encourage sober, quality and independent living.</p>
 		<!-- button type="button" class="btn btn-success">Get in touch</button> -->
       </div>
     </div>
