@@ -35,6 +35,7 @@ include_once("./includes/header.php")
 			<a class="play-pause"></a>
 			<ol class="indicator"></ol>
 		</div>
+		<div class="text-center">tap for controls or swipe with finger</div>
 	</div>
 </section>
 
