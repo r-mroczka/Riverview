@@ -4,10 +4,51 @@ include_once("./includes/header.php")
 ?>
 	
 
+<section class="home_page">
+	<div class="jumbotron text-center">
+		<div class="container">
+			<div class="row" style="height: 250px;">
+				<!-- content can go here -->
+			</div>
+		</div>
+	</div>
+</section>
 
+<section>
+	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
+	<h2 style="text-align: center; margin-bottom: 25px;">Riverview Sober House</h2>
 
+		<div id="links">
+			<a href="images/house_7.jpg" title="">
+			</a>
+			<a href="images/house_8.jpg" title="">
+			</a>
+			<a href="images/house_9.jpg" title="">
+			</a>
+			<a href="images/house_10.jpg" title="">
+			</a>
+			<a href="images/house_11.jpg" title="">
+			</a>
+			<a href="images/house_12.jpg" title="">
+			</a>
+			<a href="images/house_13.jpg" title="">
+			</a>
+			<a href="images/house_14.jpg" title="">
+			</a>
+		</div>
+ 
+		<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+			<div class="slides"></div>
+			<h3 class="title"></h3>
+			<a class="prev">‹</a>
+			<a class="next">›</a>
+			<a class="play-pause"></a>
+			<ol class="indicator"></ol>
+		</div>
+	</div>
+</section>
 
-  <div class="section well">
+ <div class="section well">
     <div class="container">
    	  <div class="row">
 		<div class="col-lg-4 col-md-4">
@@ -32,5 +73,17 @@ include_once("./includes/header.php")
 	  </div>
     </div>
   </div>
+  
+<script src="js/blueimp-gallery.min.js"></script>
+<script>
+blueimp.Gallery(
+    document.getElementById('links').getElementsByTagName('a'),
+    {
+        container: '#blueimp-gallery-carousel',
+        carousel: true
+    }
+);
+</script>
+
 	
 <?php include_once("./includes/footer.php") ?>

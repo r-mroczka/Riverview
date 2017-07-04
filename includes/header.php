@@ -23,6 +23,8 @@
 	<!-- Bootstrap & CSS -->
 	<link rel = "stylesheet" href = "./css/bootstrap.css" />
 	<link rel = "stylesheet" href = "./css/style.css" />
+	<link rel="stylesheet" href="./css/blueimp-gallery.min.css">
+
 
 	<!-- favicons -->
 	<?php include_once("./includes/favicon.php") ?>
