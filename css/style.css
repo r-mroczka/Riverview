@@ -60,7 +60,9 @@ nav li {
   background-color: transparent; }
 
 .home_page .jumbotron p {
-  font-weight: bold; }
+  font-weight: bold;
+  color: #ddd;
+  text-shadow: 1px 1px 5px #000; }
 
 form input {
   width: 100%; }
