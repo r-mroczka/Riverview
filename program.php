@@ -3,8 +3,12 @@ $page_title = 'Riverview Sober House - Sober Living in New Haven, CT - Sober Pro
 include_once("./includes/header.php") 
 ?>
 	
-
-
+<section>
+	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
+	<h2 style="text-align: center; margin-bottom: 25px;">Riverview Sober House - Program</h2>
+		
+	</div>
+</section>
 
 
 

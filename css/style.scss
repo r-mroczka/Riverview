@@ -104,8 +104,25 @@ nav {
   }
 }
  
+
 .housing_page {
 	margin-top: 20px;
+
+	h3 {
+		padding-left: 10px;
+	}
+	li {
+		line-height: 1.5em;
+		color: #ccc;
+	}
+	
+	ul li{ 
+	  margin-left: 40px;
+	}
+	ul.nested_indent li {
+		margin-left: 80px;
+	}
+	
 }
 
 form {

@@ -71,6 +71,15 @@ nav li {
 
 .housing_page {
   margin-top: 20px; }
+  .housing_page h3 {
+    padding-left: 10px; }
+  .housing_page li {
+    line-height: 1.5em;
+    color: #ccc; }
+  .housing_page ul li {
+    margin-left: 40px; }
+  .housing_page ul.nested_indent li {
+    margin-left: 80px; }
 
 form input {
   width: 100%; }
