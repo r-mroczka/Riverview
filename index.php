@@ -24,21 +24,21 @@ include_once("./includes/header.php")
 		<div class="row">
 			<div class="col-lg-4 col-md-4 col-sm-4 text-center">
 				<div style="width: 80%; margin: 0 auto;">
-					<a href="#"> <img style="margin-bottom: 10px;" src="./images/house-patio.jpg" width="100%" alt="Riverview Sober House patio"> </a> 
+					<img style="margin-bottom: 10px;" src="./images/house-patio.jpg" width="100%" alt="Riverview Sober House patio">
 					<h3>Quality</h3>
 					<p>Located in a quiet, historic part of New Haven, away from the hustle and bustle of the city, yet steps away from main bus lines and minutes from downtown New Haven. We encourage a healthy and productive lifestyle while working a program of recovery.</p>
 				</div> 
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 text-center">
 				<div style="width: 80%; margin: 0 auto;">
-					<a href="#"> <img style="margin-bottom: 10px;" src="./images/house-interior.jpg" width="100%" alt="Riverview Sober House livingroom"> </a> 
+					<img style="margin-bottom: 10px;" src="./images/house-interior.jpg" width="100%" alt="Riverview Sober House livingroom"> 
 					<h3>Sober</h3>
 					<p>Sober living homes provide support to people in early recovery to help them rebuild their lives. Residents moving into the houses are encouraged to have a treatment plan for their recovery and are held accountable to follow through on their plans and goals. </p>
 				</div> 
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 text-center">
 				<div style="width: 80%; margin: 0 auto;">
-					<a href="#"> <img style="margin-bottom: 10px;" src="./images/house-exterior.jpg" width="100%" alt="Riverview Sober House housing"> </a> 
+					<img style="margin-bottom: 10px;" src="./images/house-exterior.jpg" width="100%" alt="Riverview Sober House housing"> 
 					<h3>Housing</h3>
 					<p>We offer a beautiful, newly renovated historic home originally built in the 1850's overlooking the Quinnipiac river. We offer spacious, comfortable and homelike living environment, that is supportive, has a great atmosphere, and sober living in a beautiful home. </p>
 				</div> 
