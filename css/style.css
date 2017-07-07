@@ -22,7 +22,7 @@ body {
   /* For Opera */
   background: linear-gradient(#000, #fff);
   /* For Chrome */
-  background: url(../images/riverview_bg_img.jpg) no-repeat scroll;
+  background: url(../images/riverview-bg-img.jpg) no-repeat scroll;
   background-position: center top;
   background-repeat: no-repeat;
   position: absolute;

@@ -105,7 +105,7 @@ include_once("./includes/header.php")
 					<br />New Haven, CT 06513
 					<br />Phone: <a href="tel:+12038881234">203-888-1234</a>
 					<br />Email: <a href="mailto:contact@riverviewsoberhouse.com" target="_blank">contact@riverviewsoberhouse</a></address>
-					<img style="margin: 10px auto;" width="95%" src="./images/house_6.jpg" alt="Outside of Riverview Sober House"/>
+					<img style="margin: 10px auto;" width="95%" src="./images/riverview-sober-house-backyard.jpg" alt="Outside of Riverview Sober House"/>
 				</div>	
 		    </div>
       		<!-- /col -->
@@ -123,8 +123,34 @@ include_once("./includes/header.php")
        	</div>
        	<!-- /row -->
 	</div>
-
 </section>
-	
+
+<section>	
+	<div class="section well">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-4">
+					<img src="./images/riverview-sober-house-exterior.jpg" alt="Riverview Sober House Exterior" width="100%" />
+				</div>
+
+				<div class="col-lg-4 col-md-4">
+					<h4 class="text-center" style="padding-top: 10%;">GET IN TOUCH</h4>
+					<br>
+					<address class="text-center" style="padding-bottom: 10%">
+					<h5><strong>Riverview Sober House</strong></h5>
+					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
+					New Haven, CT 06513<br>
+					203-888-1234<br>
+					contact@riverviewsoberhouse.com
+					</address>
+				</div>
+
+				<div class="col-lg-4 col-md-4">
+					<img src="./images/riverview-quinnipiac-river-small.jpg" alt="Riverview of Quinnipiac River" width="100%" />
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 			
 <?php include_once("./includes/footer.php") ?>

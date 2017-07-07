@@ -9,21 +9,21 @@ include_once("./includes/header.php")
 	<h2>Riverview Sober House - housing</h2>
 
 		<div id="links">
-			<a href="images/house_7.jpg" title="">
+			<a href="./images/riverview-living-room.jpg" title="Riverview Living Room">
 			</a>
-			<a href="images/house_8.jpg" title="">
+			<a href="./images/riverview-computer-workstation.jpg" title="Riverview Computer Workstation">
 			</a>
-			<a href="images/house_9.jpg" title="">
+			<a href="./images/riverview-quinnipiac-river.jpg" title="Riverview Quinnipiac River">
 			</a>
-			<a href="images/house_10.jpg" title="">
+			<a href="./images/riverview-bathroom.jpg" title="Riverview Bathroom">
 			</a>
-			<a href="images/house_11.jpg" title="">
+			<a href="./images/riverview-kitchen.jpg" title="Riverview Kitchen">
 			</a>
-			<a href="images/house_12.jpg" title="">
+			<a href="./images/riverview-garden.jpg" title="Riverview Garden">
 			</a>
-			<a href="images/house_13.jpg" title="">
+			<a href="./images/riverview-patio.jpg" title="Riverview Patio">
 			</a>
-			<a href="images/house_14.jpg" title="">
+			<a href="./images/riverview-dinning-area.jpg" title="Riverview Dinning Area">
 			</a>
 		</div>
  
@@ -63,31 +63,33 @@ include_once("./includes/header.php")
 	</div>
 </section>
 
- <div class="section well">
-    <div class="container">
-   	  <div class="row">
-		<div class="col-lg-4 col-md-4">
-			<img src="./images/house_4.jpg" alt="..." width="100%" />
-        </div>
-		
-	  	<div class="col-lg-4 col-md-4">
-		  <h4 class="text-center" style="padding-top: 10%;">GET IN TOUCH</h4>
-         <br>
-          <address class="text-center" style="padding-bottom: 10%">
-			  <h5><strong>Riverview Sober House</strong></h5>
-			  <span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
-			  New Haven, CT 06513<br>
-			  203-888-1234<br>
-			  contact@riverviewsoberhouse.com
-		  </address>
+<section>	
+	<div class="section well">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-4">
+					<img src="./images/riverview-sober-house-exterior.jpg" alt="Riverview Sober House Exterior" width="100%" />
+				</div>
+
+				<div class="col-lg-4 col-md-4">
+					<h4 class="text-center" style="padding-top: 10%;">GET IN TOUCH</h4>
+					<br>
+					<address class="text-center" style="padding-bottom: 10%">
+					<h5><strong>Riverview Sober House</strong></h5>
+					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
+					New Haven, CT 06513<br>
+					203-888-1234<br>
+					contact@riverviewsoberhouse.com
+					</address>
+				</div>
+
+				<div class="col-lg-4 col-md-4">
+					<img src="./images/riverview-quinnipiac-river-small.jpg" alt="Riverview of Quinnipiac River" width="100%" />
+				</div>
+			</div>
 		</div>
-		
-		<div class="col-lg-4 col-md-4">
-			<img src="./images/house_5.jpg" alt="..." width="100%" />
-		</div>
-	  </div>
-    </div>
-  </div>
+	</div>
+</section>
   
 <script src="js/blueimp-gallery.min.js"></script>
 <script>
