@@ -1,5 +1,5 @@
 <?php 
-$page_title = 'Riverview Sober House - Site Terms &amp; Policy';
+$page_title = 'Riverview Sober House - Website Terms and Policy';
 include('./includes/header.php');
 ?>
 

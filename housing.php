@@ -1,5 +1,5 @@
 <?php 
-$page_title = 'Riverview Sober House - Sober Living in New Haven, CT - Sober House';
+$page_title = 'Riverview Sober House - Sober Living in New Haven, CT - Housing';
 include_once("./includes/header.php") 
 ?>
 	
