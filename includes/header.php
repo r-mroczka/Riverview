@@ -12,7 +12,7 @@
 	<meta property = "og:url" content = "http://riverviewsoberhouse.com/" />
 	<meta property = "og:description" content = "Located in New Haven, CT, Riverview Sober House is a spacious, comfortable, home like sober living environment that is a great place for recovery." />
 	<meta property = "og:image" content = "http://riverviewsoberhouse.com/images/riverview-quinnipiac-river-small.jpg" />
-	<meta property = "og:type" content = "article"/>
+	<meta property = "og:type" content = "website"/>
 
 	<title><?php echo $page_title; ?></title>
 		
