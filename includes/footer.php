@@ -5,7 +5,7 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<p style="font-size: 10px;">Copyright © Riverview Sober House. All rights reserved. 
-						<a href="./terms.php" title="Terms and Policies"> Terms and Policies</a></p>
+							<a href="./terms.php" title="Terms and Policies"> Terms and Policies</a><br> by: <a href="http://www.artisticdocumentdesigns.com/" target="_blank" title="Artistic Document Designs">Artistic Document Designs</a></p>
 					</div>
 				</div>
 			</div>

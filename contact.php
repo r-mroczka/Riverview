@@ -130,7 +130,7 @@ include_once("./includes/header.php")
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-4">
-					<img src="./images/riverview-sober-house-exterior.jpg" alt="Riverview Sober House Exterior" width="100%" />
+					<img style="width: 100%;" src="./images/riverview-sober-house-exterior.jpg" alt="Riverview Sober House Exterior" />
 				</div>
 
 				<div class="col-lg-4 col-md-4">
@@ -146,7 +146,7 @@ include_once("./includes/header.php")
 				</div>
 
 				<div class="col-lg-4 col-md-4">
-					<img src="./images/riverview-quinnipiac-river-small.jpg" alt="Riverview of Quinnipiac River" width="100%" />
+					<img style="width: 100%;" src="./images/riverview-quinnipiac-river-small.jpg" alt="Riverview of Quinnipiac River" />
 				</div>
 			</div>
 		</div>
