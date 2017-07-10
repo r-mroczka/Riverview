@@ -6,7 +6,7 @@
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
 			<div>
-				<a class="navbar-brand" href="/" alt="Navigate to Riverview Sober House Landing Page">
+				<a class="navbar-brand" href="/" title="Navigate to Riverview Sober House Landing Page">
 				<h1>Riverview Sober House</h1>
 				<span style="margin-left: 10px;">Quality Sober Housing</span>
 				</a>
