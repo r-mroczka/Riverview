@@ -55,5 +55,5 @@
 </head>
 
 <body>
-
+<?php include_once("./includes/analyticstracking.php") ?>
 <?php include_once("./includes/main_nav.php") ?>
