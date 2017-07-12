@@ -26,7 +26,7 @@
 			</ul>
 			
 		   	<div style="float: right;">
-			   <small><a href="tel:1-860-888-1111"><span class="glyphicon glyphicon-phone"></span> 203-888-1234</a></small>
+			   <small><a href="tel:1-828-772-0417"><span class="glyphicon glyphicon-phone"></span> 828-772-0417</a></small>
 			   <small><a href="mailto:contact@riverviewsoberhouse.com"><span class="glyphicon glyphicon-envelope"></span> contact@riverviewsoberhouse.com</a></small>
 			</div>
 		<br>

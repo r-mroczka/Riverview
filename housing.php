@@ -78,7 +78,7 @@ include_once("./includes/header.php")
 					<strong>Riverview Sober House</strong><br>
 					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
 					Fair Haven, CT 06513<br>
-					203-888-1234<br>
+					828-772-0417<br>
 					contact@riverviewsoberhouse.com
 					</address>
 				</div>
