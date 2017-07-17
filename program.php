@@ -57,7 +57,7 @@ include_once("./includes/header.php")
 					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
 					New Haven, CT 06513<br>
 					828-772-0417<br>
-					contact@riverviewsoberhouse.com
+					riverviewsoberhouse@gmail.com
 					</address>
 				</div>
 

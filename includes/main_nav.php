@@ -27,7 +27,7 @@
 			
 		   	<div style="float: right;">
 			   <small><a href="tel:1-828-772-0417"><span class="glyphicon glyphicon-phone"></span> 828-772-0417</a></small>
-			   <small><a href="mailto:contact@riverviewsoberhouse.com"><span class="glyphicon glyphicon-envelope"></span> contact@riverviewsoberhouse.com</a></small>
+			   <small><a href="mailto:riverviewsoberhouse@gmail.com"><span class="glyphicon glyphicon-envelope"></span> riverviewsoberhouse@gmail.com</a></small>
 			</div>
 		<br>
 			<ul class="nav navbar-nav navbar-right">
