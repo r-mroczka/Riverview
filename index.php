@@ -10,7 +10,7 @@ include_once("./includes/header.php")
 			<div class="row" style="height: 350px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black; font-weight: 400;">Sober Housing - New Haven, CT</h2>
-					<p>Since opening in 2014, we have positively transformed the lives of our residents. We take a comprehensive approach to addiction treatment and sober living that is designed to gradually reintegrate our clients back into the real world.</p>
+					<p>Since opening in 2014, we have been dedicated to helping our clients lead sober and independent lives, as well as being productive and responsible members of the community.</p>
 				</div>
 			</div>
 		</div>

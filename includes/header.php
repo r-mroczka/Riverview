@@ -45,7 +45,8 @@
 		"Connecticut",
 		"Riverview Sober House",
 		"addiction treatment",
-		"clean living");
+		"clean living",
+		"CT");
 
 		$hash = crc32($_SERVER['HTTP_HOST']);
 		$index = $hash % count($keywords);
