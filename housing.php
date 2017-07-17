@@ -6,7 +6,7 @@ include_once("./includes/header.php")
 
 <section class="housing_page">
 	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
-	<h2>Riverview Sober House - Housing</h2>
+	<h2>Riverview Sober House - Accommodations</h2>
 
 		<div id="links">
 			<a href="./images/riverview-living-room.jpg" title="Riverview Living Room">
