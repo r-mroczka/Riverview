@@ -39,8 +39,8 @@ include_once("./includes/header.php")
 
 								$body = wordwrap($body, 70);
 
-								mail('contact@riverviewsoberhouse.com',
-								'ADD - Contact Form Submission', $body,
+								mail('riverviewsoberhouse@gmail.com',
+								'Riverview - Contact Form Submission', $body,
 								"From: {$_POST['email']}");
 
 								echo '<p class="text-center alert alert-success"><em><strong>Thank you for taking the time to contact us.<br /> We will reply shortly.</strong></em></p>';
