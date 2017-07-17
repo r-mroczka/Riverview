@@ -9,7 +9,7 @@ include_once("./includes/header.php")
 			<div class="row" style="height: 350px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black;">Contact Us Today!</h2>
-					<p style="color: white; text-shadow: 1px 1px 3px #000;">For more information, please use our online form, email us, or call by phone at <strong><em>203-888-1234</em></strong>. We are always happy to hear from you and answer any questions you might have.</p>
+					<p style="color: white; text-shadow: 1px 1px 3px #000;">For more information, please call at <strong><em>828-772-9417</em></strong>, email us, or use our online form. We are always happy to hear from you and answer any questions you might have.</p>
 				</div>
 			</div>
 		</div>

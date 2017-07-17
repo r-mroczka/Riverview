@@ -54,7 +54,7 @@ include_once("./includes/header.php")
 		<div class="row">
 			<div class="col-xs-10 col-xs-offset-1 text-center">
 				<h2>Admission</h2>
-				<p>Riverview Sober House is a professionally run facility with a full time, live-in manager, and assistant manager. We have zero tolerance substance use policy. We require, routine, random drug and alcohol testing. In addition, we require attendance of at least 3 AA (Alcoholic Anonymous), or NA (Narcotic Anonymous) meetings per week. All residents are required to have full time employment, or be actively attending full time school. Additionally, all residents are subject to house rules designed to enhance and encourage sober, quality and independent living.</p>
+				<p>Riverview Sober House is a professionally run facility with a full time, live-in manager, and assistant manager. We have zero tolerance substance use policy with most of our clients having at least 30 days of sobriety. We require routine, random drug and alcohol testing. In addition, we require attendance of a minimum 3 AA (Alcoholic Anonymous), or NA (Narcotic Anonymous) meetings per week. All residents are required to have full time employment, or be actively attending full time school. Additionally, all residents are subject to house rules designed to enhance and encourage quality, sober and independent living.</p>
 				<!-- button type="button" class="btn btn-success">Get in touch</button> -->
 			</div>
 		</div>

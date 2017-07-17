@@ -10,7 +10,7 @@ include_once("./includes/header.php")
 			<div class="row" style="height: 350px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black; font-weight: 400;">Program at Riverview Sober House</h2>
-					<p>Riverview Sober House is a professionally run facility with a full time, live-in manager, and assistant manager. We have zero tolerance substance use policy. All residents are subject to house rules designed to enhance and encourage sober, quality and independent living.</p>
+					<p>Riverview Sober House is a professionally run facility with a full time, live-in manager, and assistant manager. We have zero tolerance substance use policy. All residents are subject to house rules designed to enhance and encourage quality, sober, and independent living.</p>
 				</div>
 			</div>
 		</div>
