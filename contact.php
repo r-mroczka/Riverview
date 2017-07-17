@@ -9,7 +9,7 @@ include_once("./includes/header.php")
 			<div class="row" style="height: 350px;">
 				<div class="col-xs-10 col-xs-offset-1">
 					<h2 style=" color: black;">Contact Us Today!</h2>
-					<p style="color: white; text-shadow: 1px 1px 3px #000;">For more information, please call at <strong><em>828-772-9417</em></strong>, email us, or use our online form. We are always happy to hear from you and answer any questions you might have.</p>
+					<p style="color: white; text-shadow: 1px 1px 3px #000;">For more information, please call at <strong><em>828-772-9417</em></strong>, email us or use our online form. We are always happy to hear from you and answer any questions you might have.</p>
 				</div>
 			</div>
 		</div>
@@ -102,7 +102,7 @@ include_once("./includes/header.php")
 			<div class="col-md-5 text-center">
 				<div style="width: 90%; margin: 0 auto;">
 					<address><h2 style="margin-bottom: 0">Riverview Sober House</h2>		
-					<br />Fair Haven, CT 06513
+					<br />New Haven, CT 06513
 					<br />Phone: <a href="tel:+1-828-772-0417">828-772-0417</a>
 					<br />Email: <a href="mailto:contact@riverviewsoberhouse.com" target="_blank">contact@riverviewsoberhouse</a></address>
 					<img style="margin: 10px auto;" width="95%" src="./images/riverview-sober-house-backyard.jpg" alt="Outside of Riverview Sober House"/>
@@ -139,7 +139,7 @@ include_once("./includes/header.php")
 					<address class="text-center" style="padding-bottom: 10%">
 					<strong>Riverview Sober House</strong><br>
 					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
-					Fair Haven, CT 06513<br>
+					New Haven, CT 06513<br>
 					828-772-0417<br>
 					contact@riverviewsoberhouse.com
 					</address>

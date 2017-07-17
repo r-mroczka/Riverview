@@ -44,6 +44,7 @@ include_once("./includes/header.php")
 					<li>Large living room with a flat screen TV and attractive water views through oversized windows.</li>
 					<li>Beautiful, newly renovated kitchen with granite counter tops.</li> 
 					<li>Two refrigerators, two ovens a dishwasher and microwave.</li>
+					<li>Professionally installed high definition security cameras</li>
 					<li>Two man bedrooms with walk-in closets, flat screen TV's, new furnishings and central air and heat.</li>
 					<li>Common areas include:</li>
 					<ul class="nested_indent">
@@ -77,7 +78,7 @@ include_once("./includes/header.php")
 					<address class="text-center" style="padding-bottom: 10%">
 					<strong>Riverview Sober House</strong><br>
 					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
-					Fair Haven, CT 06513<br>
+					New Haven, CT 06513<br>
 					828-772-0417<br>
 					contact@riverviewsoberhouse.com
 					</address>
