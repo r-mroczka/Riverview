@@ -19,8 +19,6 @@ include_once("./includes/header.php")
 			</a>
 			<a href="./images/riverview-kitchen.jpg" title="Riverview Kitchen">
 			</a>
-			<a href="./images/riverview-garden.jpg" title="Riverview Garden">
-			</a>
 			<a href="./images/riverview-patio.jpg" title="Riverview Patio">
 			</a>
 			<a href="./images/riverview-dinning-area.jpg" title="Riverview Dinning Area">
