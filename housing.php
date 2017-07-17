@@ -1,12 +1,12 @@
 <?php 
-$page_title = 'Riverview Sober House - Sober Living in New Haven, CT - Housing';
+$page_title = 'Riverview Sober House - Sober Living in New Haven, CT - Accommodations';
 include_once("./includes/header.php") 
 ?>
 	
 
 <section class="housing_page">
 	<div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
-	<h2>Riverview Sober House - Accommodations</h2>
+	<h2>Riverview Sober House - </h2>
 
 		<div id="links">
 			<a href="./images/riverview-living-room.jpg" title="Riverview Living Room">
@@ -19,7 +19,7 @@ include_once("./includes/header.php")
 			</a>
 			<a href="./images/riverview-kitchen.jpg" title="Riverview Kitchen">
 			</a>
-			<a href="./images/riverview-patio.jpg" title="Riverview Patio">
+			<a href="./images/riverview-garden.jpg" title="Riverview Garden">
 			</a>
 			<a href="./images/riverview-dinning-area.jpg" title="Riverview Dinning Area">
 			</a>
