@@ -42,7 +42,7 @@ include_once("./includes/header.php")
 				<h3>Our Amenities Include:</h3>
 				<ul>
 					<li>Large living room with a flat screen TV and attractive water views through oversized windows.</li>
-					<li>Beautiful, newly renovated kitchen with granite counter tops.</li> 
+					<li>Beautiful, newly renovated kitchen with granite counter tops and stainless steel appliances.</li> 
 					<li>Two refrigerators, two ovens a dishwasher and microwave.</li>
 					<li>Professionally installed high definition security cameras</li>
 					<li>Two man bedrooms with walk-in closets, flat screen TV's, new furnishings and central air and heat.</li>
