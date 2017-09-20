@@ -76,6 +76,7 @@ include_once("./includes/header.php")
 					<address class="text-center" style="padding-bottom: 10%">
 					<strong>Riverview Sober House</strong><br>
 					<span style="font-size: 11px;"><em>QUALITY SOBER HOUSING</em></span><br>
+					280 Front St.<br>
 					New Haven, CT 06513<br>
 					828-772-0417<br>
 					riverviewsoberhouse@gmail.com

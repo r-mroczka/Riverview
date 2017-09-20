@@ -101,10 +101,11 @@ include_once("./includes/header.php")
 
 			<div class="col-md-5 text-center">
 				<div style="width: 90%; margin: 0 auto;">
-					<address><h2 style="margin-bottom: 0">Riverview Sober House</h2>		
-					<br />New Haven, CT 06513
-					<br />Phone: <a href="tel:+1-828-772-0417">828-772-0417</a>
-					<br />Email: <a href="mailto:riverviewsoberhouse@gmail.com" target="_blank">riverviewsoberhouse@gmail.com</a></address>
+					<address><h2 style="margin-bottom: 0">Riverview Sober House</h2>
+					<br>280 Front St.		
+					<br>New Haven, CT 06513
+					<br>Phone: <a href="tel:+1-828-772-0417">828-772-0417</a>
+					<br>Email: <a href="mailto:riverviewsoberhouse@gmail.com" target="_blank">riverviewsoberhouse@gmail.com</a></address>
 					<img style="margin: 10px auto;" width="95%" src="./images/riverview-sober-house-backyard.jpg" alt="Outside of Riverview Sober House"/>
 				</div>	
 		    </div>
