@@ -118,7 +118,7 @@ include_once("./includes/header.php")
     <div class="container well" style="background-color: black; color: #7c7b7b; border: none;">
         <div class="row" style="margin-top: 20px;">
        		<div class="col-md-12">
-				<iframe src="https://www.google.com/maps/place/280+Front+St,+New+Haven,+CT+06513/@41.3134813,-72.8900873,17z/data=!3m1!4b1!4m5!3m4!1s0x89e7d76591a8c277:0xd0c5ff8ec1cbfe84!8m2!3d41.3134813!4d-72.8878986" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	    		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.787727126045!2d-72.89008728456001!3d41.313481279271016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d76591a8c277%3A0xd0c5ff8ec1cbfe84!2s280+Front+St%2C+New+Haven%2C+CT+06513!5e0!3m2!1sen!2sus!4v1505948149744" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		    </div>
       		<!-- /col -->
        	</div>
